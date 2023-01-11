@@ -1,0 +1,224 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+*{
+  margin:0px;
+  padding:0;
+   }
+ .a{
+  height:1300px;
+  width:800px;
+   background-color:rgb(191,191,191);
+   border: 2px solid black;
+   margin-left: 10%;
+   padding:0;
+}
+
+
+.b{
+  height:45px;
+  width:800px;
+   background-color:rgb(255,255,255);
+   border:2px solid black;
+   
+
+   
+}
+.f{
+  height:100px;
+  width:700px;
+   background-color:rgb(191,191,191);
+  margin-left:8%;
+}
+.h{
+height:20px;
+width:800px;
+background-color:rgb(59,68,116);
+}
+.i{
+height:20px;
+width:600px;
+   background-color:rgb(191,191,191);
+  margin-left:8%;
+}
+
+  </style>
+  </head>
+<body>
+<br>
+<br>
+<br>
+
+<div class="a"> 
+
+  <div class="b"> 
+<p> <b> <font face="arial" size="5"> Course Registration Form &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+ </div>
+ 
+ <div class="e"> <p><br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Student Registration Form</p>  <font size="2" color="rgb(180,180,180)">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+ Fill out the form carefully for registration</div></font>
+ <div class="f"> <br> <br> <form action="mailto:nageshkushwaha393@gmail.com" method="get" autocomplete="on" required>
+ <label for="name"> Student Name</label> <br>
+ <input type="name" id="name" name="name" size="20" required> 
+ <input type="name" id="middlename" name="name" required> 
+ <input type="name" id="lastname" name="name" required> <br><font size="2" color="rgb(200,200,200)"> <label for="name"> First Name </label>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+ <label for="middlename"> Middle Name</label>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+ <label for="lastname"> Last Name</label></font>
+ <br> <br>
+ <label for="birthdate"> Birth Date </label><br>
+<select id="month" required>
+<option tybe="none">  </option>
+ <option value="Baishakh"> Baishakh </option> 
+<option value="jestha"> Jestha </option> 
+<option value="ashadh"> Ashadh </option> 
+<option value="shrawan"> Shrawan </option> 
+<option value="bhadra"> Bhadra </option> 
+<option value="asoj"> Asoj </option> 
+<option value="kartik"> Kartik </option> 
+<option value="mangsir"> Mangsir </option> 
+<option value="paush"> Paush </option> 
+<option value="magh"> Magh </option> 
+<option value="falgun"> Falgun </option> 
+<option value="chaitra"> Chaitra </option></select> 
+&nbsp
+<select id="year" required>
+<option tybe="none">  </option>
+ <option value="1"> 1 </option> 
+ <option value="2"> 2 </option> 
+ <option value="3"> 3 </option> 
+ <option value="4"> 4 </option> 
+ <option value="5"> 5</option> 
+ <option value="6"> 6 </option> 
+ <option value="7"> 7 </option> 
+ <option value="8"> 8 </option> 
+ <option value="9"> 9 </option> 
+ <option value="10"> 10 </option> 
+ <option value="11"> 11 </option> 
+ <option value="12"> 12 </option> 
+ <option value="13"> 13 </option> 
+ <option value="14"> 14 </option> 
+ <option value="15"> 15 </option> 
+ <option value="16"> 16 </option> 
+ <option value="17"> 17 </option> 
+ <option value="18"> 18 </option> 
+ <option value="19"> 19 </option> 
+  <option value="20"> 20 </option> 
+  <option value="21"> 21 </option> 
+ <option value="22"> 22 </option> 
+ <option value="23"> 23 </option> 
+ <option value="24"> 24 </option> 
+ <option value="25"> 25</option> 
+ <option value="26"> 26 </option> 
+ <option value="27"> 27 </option> 
+ <option value="28"> 28 </option> 
+ <option value="29"> 29 </option> 
+  <option value="30"> 30 </option> 
+    <option value="31"> 31 </option> 
+  <option value="32"> 32 </option> </select>
+
+&nbsp
+<select id="year" required>
+
+<option tybe="none">  </option>
+ <option value="2051"> 2051 </option> 
+ <option value="2052"> 2052 </option> 
+ <option value="2053"> 2053 </option> 
+ <option value="2054"> 2054 </option> 
+ <option value="2055"> 2055</option> 
+ <option value="2056"> 2056 </option> 
+ <option value="2057"> 2057 </option> 
+ <option value="2058"> 2058 </option> 
+ <option value="2059"> 2059 </option> 
+ <option value="2060"> 2060 </option> 
+ <option value="2061"> 2061 </option> 
+ <option value="2062"> 2062 </option> 
+ <option value="2063"> 2063 </option> 
+ <option value="2064"> 2064 </option> 
+ <option value="2065"> 2065 </option> 
+ <option value="2066"> 2066 </option> 
+ <option value="2067"> 2067 </option> 
+ <option value="2068"> 2068 </option> 
+ <option value="2069"> 2069 </option> 
+</select>
+<br> <font size="2">
+Month &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+Day&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+Year
+<br>
+<br></font>
+<label for="address"> Address </label>  <br> 
+<textarea id="address" name="address" cols="83" rows="2" required> </textarea><br>
+<font size="2">
+<label for="street"> Street Address </label> <br>
+<textarea id="street" name="street" cols="83" rows="2"> </textarea><br>
+<label for="state"> State/Province </label> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<label for="city">City </label> <br>
+<textarea id="street 2" name="state" cols="35" rows="2"> </textarea>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<textarea id="state" name="state" cols="35" rows="2" required> </textarea><br>
+</div> 
+<br>
+<br>
+
+<br>
+<br><br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br><br>
+<br>
+<div class="h"></div>
+<div class="i"> <font size="5">
+Student E-mail  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+Mobile Number
+<br>
+<input type="Email" id="Email" size="25"placeholder="ex:myname@example.com" required>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="text" size="20"  maxlength="10" placeholder="(000)000-000" required><br> <br>Phone Number&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+Work Number<br>
+<input type="text" size="20" maxlength="10" placeholder="(000)000-000">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<input type="text" size="20" maxlength="10" placeholder="(000)000-000"><br> <br>
+<label for="company"> Company </label>
+<br>
+<input type="text" id="company">
+<br> <br>
+Courses<br>
+<select name="courses" id="courses" required>
+<option value="select" selected> Please Select </option>
+<optgroup label="Online Courses">
+<option value="html">HTML COURSES</option>
+<option value="css">CSS COURSES</option>
+<option value="javascript">JAVASCRIPT COURSES</option>
+<option value="Python">PYTHON COURSES</option>
+</optgroup>
+<optgroup label="Offline courses">
+<option value="QBASIC">QBASIC COURSES</option>
+<option value="C-PROGRAMMING">C-PROGRAMMING COURSES</option>
+<option value="C++">C++ COURSES</option>
+<option value="JAVA">JAVA COURSES</option>
+</optgroup>
+</select> <br> <br>
+<label for="additional"> 
+Additional Comments </label><br>
+<textarea id="additional" cols="82" rows="10"> </textarea> 
+<br>
+<br>
+<button type="submit" onclick="alert('Welcome')"><img src="submit.png" alt="Submit" height="45px" width="120px"></button>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<button type="reset" onclick="alert('Your all records will be cleared')"><img src="clear.png" alt="Clear fields" height="45px" width="120px"></button>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+ 
+</body>
+</html>
